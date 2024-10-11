@@ -1,0 +1,6 @@
+train: C:\Users\rayre\sperm_head_detection\images\train_tif
+val: C:\Users\rayre\sperm_head_detection\images\val_tif
+
+nc: 1
+names: ['head']
+
